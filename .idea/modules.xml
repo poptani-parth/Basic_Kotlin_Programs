@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Basic_Kotlin_Programs.iml" filepath="$PROJECT_DIR$/.idea/Basic_Kotlin_Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinPrograms/KotlinPrograms.iml" filepath="$PROJECT_DIR$/KotlinPrograms/KotlinPrograms.iml" />
+    </modules>
+  </component>
+</project>
